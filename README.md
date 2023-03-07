@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mohith
+- 👋 Hi, I’m Mohith
 - 👀 I’m interested in solving complex problems with Machine learning.
 -     
-- 💞️ I'm passionate about building AI-Enabled applications 
+-  I'm passionate about building AI-Enabled applications 
 - 📫 I'd love to collaborate on ML projects. Feel free to reach me out:)
 
 <!---
